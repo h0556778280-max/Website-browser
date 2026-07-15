@@ -1,0 +1,6 @@
+{
+  "name": "דפדפן מהיר",
+  "description": "דפדפן אינטרנט מהיר ומעוצב עם תמיכה בכרטיסיות, סימניות והיסטוריית גלישה",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
